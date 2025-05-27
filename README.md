@@ -1,13 +1,16 @@
 Hi 👋 My name is Varit Tubtim
 =============================
 
-Third-year Computer Science | KMITL
+Computer Science | KMITL
 -----------------------------------
 
-I am currently enrolled in a full-stack web development module course and learning React and Node.js programming.
+I recently graduated with a degree in Computer Science from King Mongkut's Institute of Technology Ladkrabang. I have hands-on experience in full-stack development, which has increased my passion for software development. 
+
+Currently, I’m learning more about web development through a full-stack course and exploring Golang..
+
 
 * 🌍  I'm based in Samut Prakan, Thailand
-* ✉️  You can contact me at [64050661@kmitl.ac.th](mailto:64050661@kmitl.ac.th)
+* ✉️  You can contact me at [varit.tubtim@gmail.com](mailto:varit.tubtim@gmail.com)
 
 ### Skills
 
