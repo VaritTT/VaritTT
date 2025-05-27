@@ -1,9 +1,6 @@
 Hi 👋 My name is Varit Tubtim
 =============================
 
-Computer Science | KMITL
------------------------------------
-
 I recently graduated with a degree in Computer Science from King Mongkut's Institute of Technology Ladkrabang. I have hands-on experience in full-stack development, which has increased my passion for software development. 
 
 Currently, I’m learning more about web development through a full-stack course and exploring Golang..
